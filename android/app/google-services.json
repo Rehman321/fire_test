@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "853747090490",
+    "project_id": "authtest-bff93",
+    "storage_bucket": "authtest-bff93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853747090490:android:78bc76aa2997f7095fe103",
+        "android_client_info": {
+          "package_name": "com.example.fire_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCegKHELE6YKXRUL0w4ONbDs97ln-XXbfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
